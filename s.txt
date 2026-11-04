@@ -1,0 +1,7 @@
+ IP-Internet protocol 
+ping uzum.uz 138.249.145.
+
+ipconfig-192.168.1.30
+
+dinamik uzgermeleri static-ozgermuytyugun( qatip qalgan)
+my IP-84.54.73.219
